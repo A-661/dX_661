@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+Dir3d/.vs/Dir3d/v17/.suo
+Dir3d/Dir3d/x64/Debug/Dir3d.log

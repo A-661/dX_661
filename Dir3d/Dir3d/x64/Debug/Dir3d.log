@@ -1,1 +1,3 @@
-﻿
+﻿  WinMain.cpp
+C:\stuff\git repos\dX_661\Dir3d\Dir3d\WinMain.cpp(110,13): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  Dir3d.vcxproj -> C:\stuff\git repos\dX_661\Dir3d\x64\Debug\Dir3d.exe
